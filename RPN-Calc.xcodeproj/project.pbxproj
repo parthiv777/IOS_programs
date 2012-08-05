@@ -15,7 +15,6 @@
 		4D3A727915C6577B000443E6 /* CalculatorAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A727815C6577B000443E6 /* CalculatorAppDelegate.m */; };
 		4D3A727C15C6577B000443E6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D3A727A15C6577B000443E6 /* MainStoryboard.storyboard */; };
 		4D3A727F15C6577B000443E6 /* CalculatorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A727E15C6577B000443E6 /* CalculatorViewController.m */; };
-		4D9F887215CE69DE000AE9BB /* Calculator_my.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D9F887115CE69DE000AE9BB /* Calculator_my.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +31,6 @@
 		4D3A727B15C6577B000443E6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		4D3A727D15C6577B000443E6 /* CalculatorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CalculatorViewController.h; sourceTree = "<group>"; };
 		4D3A727E15C6577B000443E6 /* CalculatorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatorViewController.m; sourceTree = "<group>"; };
-		4D9F887015CE69DE000AE9BB /* Calculator_my.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator_my.h; sourceTree = "<group>"; };
-		4D9F887115CE69DE000AE9BB /* Calculator_my.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator_my.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,8 +83,6 @@
 				4D3A727D15C6577B000443E6 /* CalculatorViewController.h */,
 				4D3A727E15C6577B000443E6 /* CalculatorViewController.m */,
 				4D3A726F15C6577B000443E6 /* Supporting Files */,
-				4D9F887015CE69DE000AE9BB /* Calculator_my.h */,
-				4D9F887115CE69DE000AE9BB /* Calculator_my.m */,
 			);
 			path = "RPN-Calc";
 			sourceTree = "<group>";
@@ -170,7 +165,6 @@
 				4D3A727515C6577B000443E6 /* main.m in Sources */,
 				4D3A727915C6577B000443E6 /* CalculatorAppDelegate.m in Sources */,
 				4D3A727F15C6577B000443E6 /* CalculatorViewController.m in Sources */,
-				4D9F887215CE69DE000AE9BB /* Calculator_my.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
